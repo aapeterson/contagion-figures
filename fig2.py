@@ -126,8 +126,8 @@ meanheight = 0.2
 ax_number = -1
 chis = [0., 0.5, 2., 8.]
 letters = 'ABCDEFGHIJKLMNOP'
-betalabel = '$\mathbf{{{:s}}}$ beta\n$a$={:g},$b$={:g}'
-gammalabel = '$\mathbf{{{:s}}}$ gamma\n $k$={:g}'
+betalabel = r'$\mathbf{{{:s}}}$ beta\n$a$={:g},$b$={:g}'
+gammalabel = r'$\mathbf{{{:s}}}$ gamma\n $k$={:g}'
 ytop = 1050.  # top ylim
 
 ax_number += 1
