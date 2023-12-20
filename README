@@ -1,4 +1,13 @@
-This repository contains code to make the figures in our recent manuscript. All code is pure python, and uses the following dependencies:
+This repository contains code to make the figures in our publication:
+
+Heterogeneity in susceptibility dictates the order of epidemic models
+Christopher Rose, Andrew J. Medford, C. Franklin Goldsmith, Tejs Vegge, Joshua S. Weitz, Andrew A. Peterson
+Journal of Theoretical Biology 528:110839, 2021
+
+https://doi.org/10.1016/j.jtbi.2021.110839
+https://arxiv.org/abs/2005.04704
+
+All code is pure python, and uses the following dependencies:
 
 numpy==1.19.3
 scipy==1.5.3
